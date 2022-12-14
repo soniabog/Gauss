@@ -9,3 +9,9 @@ test1: all
 
 test2: all
 	bin/gauss dane/D dane/bD
+
+test3: all
+	bin/gauss dane/E dane/bE
+
+test4: all
+	bin/gauss dane/F dane/bF
